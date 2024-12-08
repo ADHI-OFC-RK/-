@@ -34,22 +34,22 @@
     <img src="https://img.shields.io/github/repo-size/ADHI-OFC-RK/QUEEN-MINUKI-MD-NEW?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
+  <a href="https://github.com/ADHI-OFC-RK/QUEEN-MINUKI-MD/tree/main">
     <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA-MD-NEW?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/ADHI-OFC-RK/QUEEN-MINUKI-MD/tree/main">
+    <img src="https://img.shields.io/github/languages/top/ADHI-OFC-RK/QUEEN-MINUKI-MD-NEW?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <aj href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
+  <aj href="https://github.com/ADHI-OFC-RK/QUEEN-MINUKI-MD/tree/main">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Theekshana%20Rathnaweera&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
   <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20DARK%20DEVILS20%(TDD)-purple&style=plastic">
 
   </a>
 </p>
