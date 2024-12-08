@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=QUEEN+MINUKI+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=QUEEN+MINUKI+MD" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/ADHI-OFC-RK/QUEEN-MINUKI-MD/tree/main">
@@ -94,54 +94,7 @@
   <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## VAJIRA MD DEVELOPER TEAM
-
-| <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/44ff060a7b96ff6c0a42a.jpg" width=90 height=90></a> | <a href="https://github.com/kushansewmina1234"><img src="https://telegra.ph/file/7b554aaf04171d11d7ba6.jpg" width=90 height=90></a> | <a href="https://github.com/20070808lk"><img src="https://telegra.ph/file/b194f9be48ca8e09e7a6b.jpg" width=90 height=90></a> | <a href="https://github.com/Darksadas"><img src="https://telegra.ph/file/bdaf8573bd0249df4abb7.jpg" width=90 height=90></a> | <a href="https://github.com/Aadhi777777"><img src="https://telegra.ph/file/87bf2bcb38abef47205ad.jpg" width=90 height=90></a>  |  <a href="https://github.com/Rukshanruka/Rukshan-MD-NEW"><img src="https://telegra.ph/file/aa52e76beeeee65cad24c.jpg" width=90 height=90></a> |
-|---|---|---|---|---|---|
-| **[VAJIRA RATHNAYAKA](https://github.com/VajiraTech)**</br>Founder & Developer</br> | **[Kushan Sewmina](https://github.com/kushansewmina1234)**</br>  CO-Coder</br> | **[Ayodya Vichakshana ](https://github.com/20070808lk)**</br>CO-Coder</br> | **[Themi   Sadas](https://github.com/Darksadas)**</br>Designer & Management| **[Theekshana rathnaweera](https://github.com/Aadhi777777)**</br>Group & Management| **[Rukshan Md](https://github.com/Rukshanruka/Rukshan-MD-NEW)**</br> Bug Tester |
-
-
-
-
-
 
 ## Workflow Deploy Code 👇
 
