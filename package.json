@@ -1,10 +1,10 @@
 {
-  "name": "QUEEN MINUKI MD",
+  "name": "QUEEN-MINUKI-MD",
   "version": "1.0.0",
-  "description": "A WhatsApp bot created by Queen minuki",
+  "description": "A WhatsApp bot created by Queen minuki md",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Queen miniki md",
+    "start": "pm2 start index.js --deep-monitoring --attach --name Queen minuki md",
     "stop": "pm2 stop Queen minuki md",
     "restart": "pm2 restart Queen minuki md"
   },
