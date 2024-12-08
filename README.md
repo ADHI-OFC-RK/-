@@ -56,7 +56,7 @@
 
 ## 💡 FOLLOW OUR CHANAL
 
-<an href="https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+<an href="https://whatsapp.com/channel/0029Vau0YI7Fsn0o1aE8Iz2x"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
 <br>
 
@@ -69,7 +69,7 @@
 
 ## 🎀 STEP 01 -  Fork The Repo
 
-<a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
+<a href="https://github.com/ADHI-OFC-RK/QUEEN-MINUKI-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
@@ -94,7 +94,7 @@
   <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
 </div>
 
-## VAJIRA MD DEVELOPER TEAM
+## QUEEN MINUKI MD DEVELOPER TEAM
 
 ## Workflow Deploy Code 👇
 
